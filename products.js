@@ -1,20 +1,23 @@
 const products = [
   {
     id: 1,
-    name: "Áo khoác Hàn Quốc",
-    image: "https://via.placeholder.com/300",
-    video: "https://www.tiktok.com/@abc/video/7271234567890123456",
-    desc: "Form đẹp, dễ phối đồ",
-    shopee: "https://shopee.vn/",
-    tiktok: "https://tiktok.com/"
+    name: "Áo khoác Sweater STERY cổ trụ form rộng",
+    image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqijmLV0W_DCqoIuVmsKRkV5XUGNaVDDHct_D89G4Vm4I8YFmz",
+    video: "https://www.tiktok.com/@tamreview688/video/7630461394906811669",
+    desc: "Nhiều người chê áo này nhìn “phèn” khi treo…
+nhưng mặc lên thì lại khác 🤷‍♂️
+Gu mỗi người mỗi khác, nhưng riêng mình thấy ổn.
+Bạn thấy sao?",
+    shopee: "https://s.shopee.vn/2LUfGn2YPo",
+    tiktok: "https://www.tiktok.com/view/product/1734721580737070475?_svg=1&chain_key=%7B%22cck%22%3A%22IjPSfgbw8evL42U6yfxm4%2FOtgSoNMDaWym62DC1XIVMbmEEEmtPxF1Io8sbrhEJvfRRu0GtMIAosYbzWq%2FL0DHYyht5iZmsy50uBLw%3D%3D%22%2C%22mck%22%3A%22Nzx09t3vVBTeYguD1h1QwDfHI7veq15M3zVYAekGyGDVqpwY%2FHytZWJXQ2azLnmZHWH0re4Y6ByRt8nWYBlihHftv2lEVPFr0bTQPQ%3D%3D%22%2C%22v%22%3A1%7D&checksum=c0aabcdfef73257bdc669201bace379172a119edf62a05bd388c6fcacb41d882&encode_params=MIIBUQQMspflbT4VPqs2A8COBIIBLXqkGx8O2t5Ym-kQ4W0RfSh6MfkJwbEePUEeJ5uK07j5Kzp0_9y_T2TbXo56hXcKNlf2a13naq12_dpe2YIMU9seqzB3QcP_R3CsMEiFSejdOgPz5Tqc51OtPVu0UmSr94gD2pLJUFUGb6nED4fd4tQGs6m9Nx4TWfCShvGZPGUt-qD_yQRSBx6x9thuKvEv8AVn5PNcVBPoCrJ6xlAUYNfRLI8ubcJnuyRJU-Uy8g4LJWBb4Xdbk5KVT1ASF2F1lMNHzqd60MflsdiYFJzggn0x-K-yxxf_qSwIPJYD0BsKAJ7zQLtyj1IIAXQSAfSoLYQjuauiGVeySpASZx57oU936eDKjzHLGDiDwcAVgcE_YxoVf5NfwvHHpLT0-qMJcVjBOrKqUxnFE0oeJLAEEON9jhXeFPZeI3UHweNRcg0%3D&og_info=%7B%22title%22%3A%22%28H%C3%80NG+M%E1%BB%9AI+V%E1%BB%80%29+%C3%81o+Kho%C3%A1c+Sweater+STERY+C%E1%BB%95+Tr%E1%BB%A5+Form+R%E1%BB%99ng+Nam+N%E1%BB%AF+Ch%E1%BA%A5t+Li%E1%BB%87u+N%E1%BB%89+B%C3%B4ng+380GSM+Hot+Trend%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-sg.ibyteimg.com%5C%2Ftos-alisg-i-aphluv4xwc-sg%5C%2Fe98c502f0b1a46aa86eb506fbff97226~tplv-aphluv4xwc-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy%26from%3D2001012042%22%7D&sec_user_id=MS4wLjABAAAA__MhpOqqqgO2OguPUqHXGa9dwJwTkRflidM_Ov0Si5WIQ7h1t_rhe_ZVSaPQ7OVN&share_app_id=1180&share_link_id=78F40CD6-1E28-4C62-B021-362FF27C5A63&share_region=VN&social_share_type=15&timestamp=1777195112&trackParams=%7B%22traffic_source_list%22%3A%5B2%5D%2C%22enter_from_info%22%3A%22product_share_outside%22%2C%22source_page_type%22%3A%22product_share%22%2C%22device_id%22%3A%227382024795527382533%22%2C%22enable_shop_tab_popup%22%3A1%7D&tt_from=copy&u_code=EEJEFJL72CLEEG&ug_btm=b2878%2Cb6661&unique_id=tamreview688&user_id=7382025743468905478&utm_campaign=client_share&utm_medium=ios&utm_source=copy"
   },
   {
     id: 2,
     name: "Áo thun basic",
-    image: "https://via.placeholder.com/300",
-    video: "https://www.tiktok.com/@abc/video/7271234567890123456",
+    image: "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mmwzqylktzb5ea.webp",
+    video: "https://www.tiktok.com/@tamreview688/video/7632575300085337365",
     desc: "Đơn giản nhưng chất",
-    shopee: "https://shopee.vn/",
-    tiktok: "https://tiktok.com/"
+    shopee: "https://s.shopee.vn/16kUjsNuz",
+    tiktok: "https://www.tiktok.com/view/product/1733023330948908759?_svg=1&chain_key=%7B%22cck%22%3A%22lVBCuLNhCRvA4wo95Hzt8JeaLC6WJzhfCKEnSA%2FFRve9f2T1qvg1n0cPvOwEClKWwkSYm4TNe996bHvCjxdFuDmOtAWS0wFxB6DPZg%3D%3D%22%2C%22mck%22%3A%22smeLHvj73Egz1OpdCQfm2aHgH2PvHcN3gHE9DuvLoGbTNKb%2Fyp2bAg9nyZkxtrWxg6EQX5rVESLAax7UQ0X18pD66anV+r7jTHx4gg%3D%3D%22%2C%22v%22%3A1%7D&checksum=57bb3967bb5fd6978a820ac9d9a8f305ba3d47050c17f66212383ce1e6ec79f5&encode_params=MIIBUQQMdiDjg26rV28SHcU0BIIBLWQBNTnDywBrd0FMqT7l_Bsguv7DxIIHdHqk_0JykNeZ4DnbQJqZJ_eTYRAf3stpM6icacbKb9ME-1s2GFJXaGXiwDGDCzY_FyFrDm1BlyFc8QyPZHMXrjBEvJsktQoOVG1aH9h_FeStoPEZNgnnhldrvSK-SYdceWsAHBtqYpz9c6qLhbZj0FxG5bJvIDEv9O9dAi4ObRTDkli6SUFHDGcY-NIr515sGN5c9-XXBOw0DCgVir4mSKyWgz8UFjeIR6Y-re6QbagSet2IvS3XxVu72vkHfPU714u7rnGwtrJzPkeC4nwdV0qL5mT3rIkJzpa_cqrtQxOcPLjIWgQ0mN-ouz6YmACjSVQuWWzo9ECC9WiflOLifunMIkqPMK-CpXJQNfdLBG6sB7s8rvIEEOYHCflUmz144D235b6O9A8%3D&og_info=%7B%22title%22%3A%22%C3%81o+Thun+Nam+AKUBA+C%E1%BB%95+B%E1%BA%BB+Ph%E1%BB%91i+Vi%E1%BB%81n%2C+Th%C3%AAu+Ch%E1%BB%AF+Th%E1%BB%9Di+Trang%2C+Ch%E1%BA%A5t+Li%E1%BB%87u+Tho%C3%A1ng+M%C3%A1t%2C+D%E1%BB%85+Ph%E1%BB%91i+%C4%90%E1%BB%93+%7C+01HE1361%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-sg.ibyteimg.com%5C%2Ftos-alisg-i-aphluv4xwc-sg%5C%2F7ec0b842ffef41b7ad5677055b76622c~tplv-aphluv4xwc-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy%26from%3D2001012042%22%7D&sec_user_id=MS4wLjABAAAA__MhpOqqqgO2OguPUqHXGa9dwJwTkRflidM_Ov0Si5WIQ7h1t_rhe_ZVSaPQ7OVN&share_app_id=1180&share_link_id=EE48913D-C1D8-4056-BAB5-FFFFBBFB945D&share_region=VN&social_share_type=15&timestamp=1777195575&trackParams=%7B%22traffic_source_list%22%3A%5B2%5D%2C%22enter_from_info%22%3A%22product_share_outside%22%2C%22source_page_type%22%3A%22product_share%22%2C%22device_id%22%3A%227382024795527382533%22%2C%22enable_shop_tab_popup%22%3A1%7D&tt_from=copy&u_code=EEJEFJL72CLEEG&ug_btm=b2878%2Cb6661&unique_id=tamreview688&user_id=7382025743468905478&utm_campaign=client_share&utm_medium=ios&utm_source=copy"
   }
 ];
